@@ -13,3 +13,4 @@ while x<=y:
     print(n[0:x])
     x = x+1
 
+
